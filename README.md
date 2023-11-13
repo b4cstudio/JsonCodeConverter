@@ -74,8 +74,8 @@ Json Code Converter supports many programing languages and file types:
   
 ## Screenshot and Media
 <p align="center">
-<img src="screenshots/1.PNG" alt="B4C - JsonCodeConverter screentshot" width="240" /> 
-<img src="screenshots/2.PNG" alt="B4C - JsonCodeConverter screentshot" width="240" /> 
+<img src="./screenshots/1.png" alt="B4C - JsonCodeConverter screentshot" width="240" /> 
+<img src="./screenshots/2.png" alt="B4C - JsonCodeConverter screentshot" width="240" /> 
 </p>
 
 ## Download and Installation
